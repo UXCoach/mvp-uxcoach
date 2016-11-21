@@ -15,6 +15,16 @@
 		"oAP": "\/CNAME",
 		"oF": 0
 		},
+	"\/css\/creative-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/creative-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/css\/creative.css": {
 		"aP": 0,
 		"bl": 0,
@@ -22,7 +32,7 @@
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/css\/creative-min.css",
-		"oF": 0,
+		"oF": 3,
 		"oS": 0
 		},
 	"\/css\/creative.min.css": {
@@ -44,13 +54,21 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/img\/header.jpg": {
+	"\/img\/header-2.jpg": {
 		"ft": 16384,
 		"iS": 125976,
 		"oA": 0,
-		"oAP": "\/img\/header.jpg",
+		"oAP": "\/img\/header-2.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/img\/header.jpg": {
+		"ft": 16384,
+		"iS": 380137,
+		"oA": 0,
+		"oAP": "\/img\/header.jpg",
+		"oF": 0,
+		"opt": 1
 		},
 	"\/img\/portfolio\/fullsize\/1.jpg": {
 		"ft": 16384,
